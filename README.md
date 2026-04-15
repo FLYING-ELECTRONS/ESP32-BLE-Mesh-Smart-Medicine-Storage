@@ -8,6 +8,12 @@ ESP32 BLE Mesh + Anedya Cloud
 
 This project is a smart IoT-based medicine storage monitoring system using ESP32 and BLE Mesh. It ensures safe storage conditions by continuously monitoring temperature, humidity, and light, and automatically controlling cooling mechanisms.
 
+## Demo Video
+
+Watch the working demo here:
+👉 https://drive.google.com/file/d/1f_mQ5gFi0ASkOhQcSh9SohPEBXPu874n/view
+
+
 ---
 
 ## Features
