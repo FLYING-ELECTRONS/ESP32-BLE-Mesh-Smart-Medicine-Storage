@@ -140,12 +140,6 @@ Cloud Commands → Gateway → BLE Mesh → Nodes
 
 ---
 
-## Output
-
-(Add images here: hardware setup, dashboard screenshots, system working)
-
----
-
 ## Project Structure
 
 * `firmware/` – ESP32 source code
